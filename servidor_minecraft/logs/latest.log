@@ -1,6 +1,35 @@
-[00:17:57] [Server thread/INFO]: zahidmizrahi10[/172.24.26.112:63387] logged in with entity id 9 at (403.12626587050806, 71.0, -471.47273285959966)
-[00:17:57] [Server thread/INFO]: zahidmizrahi10 joined the game
-[00:25:32] [Server thread/INFO]: Villager csg['Villager'/264, l='ServerLevel[world]', x=185.70, y=101.00, z=-499.70] died, message: 'Villager was slain by Zombie'
-[00:26:09] [Server thread/INFO]: zahidmizrahi10 lost connection: Disconnected
-[00:26:09] [Server thread/INFO]: zahidmizrahi10 left the game
-[00:27:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:51:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:51:36] [ServerMain/INFO]: Loaded 1406 recipes
+[17:51:36] [ServerMain/INFO]: Loaded 1519 advancements
+[17:51:36] [Server thread/INFO]: Starting minecraft server version 25w15a
+[17:51:36] [Server thread/INFO]: Loading properties
+[17:51:36] [Server thread/INFO]: Default game type: SURVIVAL
+[17:51:36] [Server thread/INFO]: Generating keypair
+[17:51:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:51:36] [Server thread/INFO]: Using epoll channel type
+[17:51:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:51:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:51:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:51:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:51:36] [Server thread/INFO]: Preparing level "world"
+[17:51:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:43] [Server thread/INFO]: Time elapsed: 6429 ms
+[17:51:43] [Server thread/INFO]: Done (6.876s)! For help, type "help"
+[17:52:43] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:59:38] [Server thread/INFO]: zJRNYEMI_[/172.24.158.109:32280] logged in with entity id 8 at (391.7915612687416, 67.0, -477.77458566213807)
+[17:59:38] [Server thread/INFO]: zJRNYEMI_ joined the game
+[18:01:15] [Server thread/INFO]: zJRNYEMI_ lost connection: Disconnected
+[18:01:15] [Server thread/INFO]: zJRNYEMI_ left the game
