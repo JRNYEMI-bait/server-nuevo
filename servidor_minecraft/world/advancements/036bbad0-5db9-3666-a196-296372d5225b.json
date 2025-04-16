@@ -9,13 +9,15 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-04-15 21:07:16 +0000",
       "minecraft:beach": "2025-04-15 21:08:02 +0000",
+      "minecraft:frozen_river": "2025-04-15 21:20:43 +0000",
       "minecraft:forest": "2025-04-15 20:23:02 +0000",
       "minecraft:taiga": "2025-04-15 20:11:58 +0000",
       "minecraft:river": "2025-04-15 21:08:31 +0000",
       "minecraft:meadow": "2025-04-15 20:17:25 +0000",
       "minecraft:stony_shore": "2025-04-15 20:19:50 +0000",
       "minecraft:snowy_plains": "2025-04-15 20:31:26 +0000",
-      "minecraft:snowy_taiga": "2025-04-15 20:25:57 +0000"
+      "minecraft:snowy_taiga": "2025-04-15 20:25:57 +0000",
+      "minecraft:plains": "2025-04-15 21:11:26 +0000"
     },
     "done": false
   },
@@ -64,7 +66,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_chicken": "2025-04-15 20:30:17 +0000",
-      "sweet_berries": "2025-04-15 20:19:34 +0000"
+      "sweet_berries": "2025-04-15 20:19:34 +0000",
+      "cooked_beef": "2025-04-15 21:21:59 +0000"
     },
     "done": false
   },
@@ -657,6 +660,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-04-15 21:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-15 21:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-15 21:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-15 21:21:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-04-15 21:07:14 +0000"
@@ -666,6 +693,12 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-04-15 21:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-04-15 21:19:30 +0000"
     },
     "done": true
   },
@@ -696,6 +729,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-04-15 21:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-15 21:21:08 +0000"
     },
     "done": true
   },

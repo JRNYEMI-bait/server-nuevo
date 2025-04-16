@@ -171,6 +171,7 @@
     "criteria": {
       "cooked_mutton": "2025-04-15 20:38:45 +0000",
       "sweet_berries": "2025-04-15 20:22:52 +0000",
+      "cooked_beef": "2025-04-15 21:17:33 +0000",
       "beef": "2025-04-15 20:32:19 +0000"
     },
     "done": false
@@ -904,6 +905,24 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-15 21:08:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-04-15 21:15:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-04-15 21:15:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-04-15 21:15:27 +0000"
     },
     "done": true
   },
