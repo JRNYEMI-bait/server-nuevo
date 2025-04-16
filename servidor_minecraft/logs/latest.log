@@ -1,2 +1,6 @@
 [00:17:57] [Server thread/INFO]: zahidmizrahi10[/172.24.26.112:63387] logged in with entity id 9 at (403.12626587050806, 71.0, -471.47273285959966)
 [00:17:57] [Server thread/INFO]: zahidmizrahi10 joined the game
+[00:25:32] [Server thread/INFO]: Villager csg['Villager'/264, l='ServerLevel[world]', x=185.70, y=101.00, z=-499.70] died, message: 'Villager was slain by Zombie'
+[00:26:09] [Server thread/INFO]: zahidmizrahi10 lost connection: Disconnected
+[00:26:09] [Server thread/INFO]: zahidmizrahi10 left the game
+[00:27:09] [Server thread/INFO]: Server empty for 60 seconds, pausing

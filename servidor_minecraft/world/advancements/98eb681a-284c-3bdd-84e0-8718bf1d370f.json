@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:ice_spikes": "2025-04-16 00:21:08 +0000",
       "minecraft:frozen_river": "2025-04-15 21:03:44 +0000",
       "minecraft:forest": "2025-04-15 20:23:17 +0000",
       "minecraft:taiga": "2025-04-15 20:13:55 +0000",
@@ -923,6 +924,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-04-15 21:15:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-04-16 00:23:55 +0000"
     },
     "done": true
   },
