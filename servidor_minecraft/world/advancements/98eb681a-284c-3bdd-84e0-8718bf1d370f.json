@@ -14,7 +14,8 @@
       "minecraft:meadow": "2025-04-15 20:18:32 +0000",
       "minecraft:stony_shore": "2025-04-15 20:18:05 +0000",
       "minecraft:snowy_plains": "2025-04-15 21:04:09 +0000",
-      "minecraft:snowy_taiga": "2025-04-15 20:34:18 +0000"
+      "minecraft:snowy_taiga": "2025-04-15 20:34:18 +0000",
+      "minecraft:dripstone_caves": "2025-04-16 19:06:11 +0000"
     },
     "done": false
   },
@@ -170,6 +171,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_rabbit": "2025-04-16 19:04:30 +0000",
+      "cooked_chicken": "2025-04-16 19:05:14 +0000",
       "cooked_mutton": "2025-04-15 20:38:45 +0000",
       "sweet_berries": "2025-04-15 20:22:52 +0000",
       "cooked_beef": "2025-04-15 21:17:33 +0000",
@@ -933,9 +936,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-16 19:00:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-04-16 18:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-16 19:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-16 19:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-16 19:00:36 +0000"
     },
     "done": true
   },
