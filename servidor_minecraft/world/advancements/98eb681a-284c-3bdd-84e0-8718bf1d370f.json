@@ -171,9 +171,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beetroot_soup": "2025-04-16 19:13:58 +0000",
       "cooked_rabbit": "2025-04-16 19:04:30 +0000",
       "cooked_chicken": "2025-04-16 19:05:14 +0000",
       "cooked_mutton": "2025-04-15 20:38:45 +0000",
+      "mushroom_stew": "2025-04-16 19:27:45 +0000",
       "sweet_berries": "2025-04-15 20:22:52 +0000",
       "cooked_beef": "2025-04-15 21:17:33 +0000",
       "beef": "2025-04-15 20:32:19 +0000"
@@ -936,6 +938,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-04-16 19:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-16 19:20:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-04-16 19:00:36 +0000"
@@ -945,6 +959,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-04-16 18:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-16 19:20:38 +0000"
     },
     "done": true
   },
@@ -960,9 +980,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-04-16 19:20:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-04-16 19:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-16 19:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-04-16 19:28:47 +0000"
     },
     "done": true
   },
