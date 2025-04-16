@@ -77,3 +77,38 @@
 [19:49:00] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> no podremos avanzar
 [19:51:11] [Server thread/INFO]: zJRNYEMI_ was slain by Zombie
 [19:52:49] [Server thread/INFO]: zJRNYEMI_ has made the advancement [Hot Stuff]
+[20:04:13] [Server thread/INFO]: zahidmizrahi10 lost connection: Disconnected
+[20:04:13] [Server thread/INFO]: zahidmizrahi10 left the game
+[20:06:46] [Server thread/INFO]: Set zJRNYEMI_'s game mode to Creative Mode
+[20:08:17] [Server thread/INFO]: Set zJRNYEMI_'s game mode to Survival Mode
+[20:08:52] [Server thread/WARN]: Couldn't find profile with name: zjrnyemi
+com.mojang.authlib.exceptions.MinecraftClientHttpException: Couldn't find any profile with name zjrnyemi
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:103) ~[authlib-6.0.58.jar:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56) ~[authlib-6.0.58.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfileByName(YggdrasilGameProfileRepository.java:109) ~[authlib-6.0.58.jar:?]
+	at awc.a(SourceFile:80) ~[server-25w15a.jar:?]
+	at awc.a(SourceFile:137) ~[server-25w15a.jar:?]
+	at ez.a(SourceFile:65) ~[server-25w15a.jar:?]
+	at ez.a(SourceFile:31) ~[server-25w15a.jar:?]
+	at aor.a(SourceFile:33) ~[server-25w15a.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at hw.a(SourceFile:29) ~[server-25w15a.jar:?]
+	at hw.execute(SourceFile:13) ~[server-25w15a.jar:?]
+	at hr.a(SourceFile:8) ~[server-25w15a.jar:?]
+	at hj.a(SourceFile:8) ~[server-25w15a.jar:?]
+	at hn.a(SourceFile:107) ~[server-25w15a.jar:?]
+	at el.a(SourceFile:390) ~[server-25w15a.jar:?]
+	at el.a(SourceFile:320) ~[server-25w15a.jar:?]
+	at el.a(SourceFile:310) ~[server-25w15a.jar:?]
+	at aqw.br(SourceFile:300) ~[server-25w15a.jar:?]
+	at aqw.G(SourceFile:282) ~[server-25w15a.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:1073) ~[server-25w15a.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:946) ~[server-25w15a.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:706) ~[server-25w15a.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:290) ~[server-25w15a.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[20:08:52] [Server thread/INFO]: Made zjrnyemi a server operator
+[20:08:59] [Server thread/INFO]: Made zJRNYEMI_ a server operator
+[20:09:04] [Server thread/INFO]: [zJRNYEMI_: Set own game mode to Creative Mode]
+[20:09:21] [Server thread/INFO]: [zJRNYEMI_: Set own game mode to Survival Mode]
+[20:11:42] [Server thread/INFO]: zJRNYEMI_ was slain by Zombie
