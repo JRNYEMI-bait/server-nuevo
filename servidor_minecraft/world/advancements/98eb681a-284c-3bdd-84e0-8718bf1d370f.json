@@ -175,10 +175,12 @@
       "cooked_rabbit": "2025-04-16 19:04:30 +0000",
       "cooked_chicken": "2025-04-16 19:05:14 +0000",
       "cooked_mutton": "2025-04-15 20:38:45 +0000",
+      "rabbit": "2025-04-16 19:35:38 +0000",
       "mushroom_stew": "2025-04-16 19:27:45 +0000",
       "sweet_berries": "2025-04-15 20:22:52 +0000",
       "cooked_beef": "2025-04-15 21:17:33 +0000",
-      "beef": "2025-04-15 20:32:19 +0000"
+      "beef": "2025-04-15 20:32:19 +0000",
+      "baked_potato": "2025-04-16 19:36:43 +0000"
     },
     "done": false
   },
@@ -956,9 +958,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-16 19:38:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-04-16 18:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-16 19:38:23 +0000"
     },
     "done": true
   },
@@ -971,6 +985,18 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-04-16 19:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-16 19:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-16 19:38:23 +0000"
     },
     "done": true
   },
@@ -992,6 +1018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-16 19:38:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-04-16 19:28:47 +0000"
@@ -1001,6 +1033,18 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-04-16 19:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-16 19:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2025-04-16 19:38:23 +0000"
     },
     "done": true
   },

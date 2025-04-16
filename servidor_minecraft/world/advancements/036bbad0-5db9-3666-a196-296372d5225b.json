@@ -9,15 +9,16 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-04-15 21:07:16 +0000",
       "minecraft:beach": "2025-04-15 21:08:02 +0000",
-      "minecraft:frozen_river": "2025-04-15 21:20:43 +0000",
       "minecraft:forest": "2025-04-15 20:23:02 +0000",
       "minecraft:taiga": "2025-04-15 20:11:58 +0000",
       "minecraft:river": "2025-04-15 21:08:31 +0000",
-      "minecraft:meadow": "2025-04-15 20:17:25 +0000",
       "minecraft:stony_shore": "2025-04-15 20:19:50 +0000",
       "minecraft:snowy_plains": "2025-04-15 20:31:26 +0000",
       "minecraft:snowy_taiga": "2025-04-15 20:25:57 +0000",
       "minecraft:dripstone_caves": "2025-04-16 18:00:47 +0000",
+      "minecraft:ice_spikes": "2025-04-16 19:36:03 +0000",
+      "minecraft:frozen_river": "2025-04-15 21:20:43 +0000",
+      "minecraft:meadow": "2025-04-15 20:17:25 +0000",
       "minecraft:plains": "2025-04-15 21:11:26 +0000"
     },
     "done": false
@@ -68,7 +69,8 @@
     "criteria": {
       "cooked_chicken": "2025-04-15 20:30:17 +0000",
       "sweet_berries": "2025-04-15 20:19:34 +0000",
-      "cooked_beef": "2025-04-15 21:21:59 +0000"
+      "cooked_beef": "2025-04-15 21:21:59 +0000",
+      "baked_potato": "2025-04-16 19:33:43 +0000"
     },
     "done": false
   },
@@ -773,6 +775,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-04-16 19:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-16 19:34:31 +0000"
     },
     "done": true
   },
