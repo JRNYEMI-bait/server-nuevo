@@ -1,114 +1,43 @@
-[17:51:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:51:36] [ServerMain/INFO]: Loaded 1406 recipes
-[17:51:36] [ServerMain/INFO]: Loaded 1519 advancements
-[17:51:36] [Server thread/INFO]: Starting minecraft server version 25w15a
-[17:51:36] [Server thread/INFO]: Loading properties
-[17:51:36] [Server thread/INFO]: Default game type: SURVIVAL
-[17:51:36] [Server thread/INFO]: Generating keypair
-[17:51:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:51:36] [Server thread/INFO]: Using epoll channel type
-[17:51:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:51:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:51:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:51:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:51:36] [Server thread/INFO]: Preparing level "world"
-[17:51:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:51:43] [Server thread/INFO]: Time elapsed: 6429 ms
-[17:51:43] [Server thread/INFO]: Done (6.876s)! For help, type "help"
-[17:52:43] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:59:38] [Server thread/INFO]: zJRNYEMI_[/172.24.158.109:32280] logged in with entity id 8 at (391.7915612687416, 67.0, -477.77458566213807)
-[17:59:38] [Server thread/INFO]: zJRNYEMI_ joined the game
-[18:01:15] [Server thread/INFO]: zJRNYEMI_ lost connection: Disconnected
-[18:01:15] [Server thread/INFO]: zJRNYEMI_ left the game
-[18:02:15] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[18:35:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@960a8a2[id=98eb681a-284c-3bdd-84e0-8718bf1d370f,name=zahidmizrahi10,properties={}] lost connection: Disconnected
-[18:35:14] [Server thread/INFO]: zahidmizrahi10[/172.24.26.112:58305] logged in with entity id 521 at (226.6018243441853, 67.0, -422.69999998807907)
-[18:35:14] [Server thread/INFO]: zahidmizrahi10 joined the game
-[19:08:08] [Server thread/INFO]: zahidmizrahi10 was doomed to fall by Stray
-[19:10:42] [Server thread/INFO]: You whisper to zahidmizrahi10: te salvo?
-[19:10:49] [Server thread/INFO]: zahidmizrahi10 tried to swim in lava to escape Zombie
-[19:15:23] [Server thread/INFO]: zJRNYEMI_[/172.24.158.109:39154] logged in with entity id 6812 at (431.2979415622066, 55.0, -389.30000001192093)
-[19:15:23] [Server thread/INFO]: zJRNYEMI_ joined the game
-[19:16:38] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> pasa coords mr
-[19:16:51] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> te jodit
-[19:16:54] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> xd
-[19:17:06] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> ya te vi
-[19:17:14] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> a ve
-[19:18:50] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> vamono
-[19:18:53] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> no fuimo
-[19:19:21] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> a la v
-[19:19:53] [Server thread/INFO]: zJRNYEMI_ fell from a high place
-[19:19:57] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> ESPERA
-[19:20:07] [Server thread/INFO]: zahidmizrahi10 fell from a high place
-[19:20:35] [Server thread/INFO]: zahidmizrahi10 has made the advancement [Isn't It Iron Pick]
-[19:20:40] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> mi pico
-[19:20:51] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> mmgvo
-[19:21:06] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> tengo al que tu no tienee ejJSJKKAJSK
-[19:21:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[19:21:52] [Server thread/INFO]: tptptpttttttt<--[HERE]
-[19:21:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[19:21:52] [Server thread/INFO]: ttttttttasdawasd<--[HERE]
-[19:21:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[19:21:52] [Server thread/INFO]: <--[HERE]
-[19:21:52] [Server thread/INFO]: Incorrect argument for command
-[19:21:52] [Server thread/INFO]: tp zJRNYEMI_<--[HERE]
-[19:22:01] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> err wezo
-[19:23:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[19:23:34] [Server thread/INFO]: tp<--[HERE]
-[19:23:52] [Server thread/INFO]: Teleported zJRNYEMI_ to zahidmizrahi10
-[19:24:23] [Server thread/INFO]: zJRNYEMI_ was slain by zahidmizrahi10
-[19:24:48] [Server thread/INFO]: Teleported zJRNYEMI_ to zahidmizrahi10
-[19:34:17] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> -6 69 -589
-[19:48:52] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> bueno
-[19:48:56] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> ya que
-[19:49:00] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> no podremos avanzar
-[19:51:11] [Server thread/INFO]: zJRNYEMI_ was slain by Zombie
-[19:52:49] [Server thread/INFO]: zJRNYEMI_ has made the advancement [Hot Stuff]
-[20:04:13] [Server thread/INFO]: zahidmizrahi10 lost connection: Disconnected
-[20:04:13] [Server thread/INFO]: zahidmizrahi10 left the game
-[20:06:46] [Server thread/INFO]: Set zJRNYEMI_'s game mode to Creative Mode
-[20:08:17] [Server thread/INFO]: Set zJRNYEMI_'s game mode to Survival Mode
-[20:08:52] [Server thread/WARN]: Couldn't find profile with name: zjrnyemi
-com.mojang.authlib.exceptions.MinecraftClientHttpException: Couldn't find any profile with name zjrnyemi
-	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:103) ~[authlib-6.0.58.jar:?]
-	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56) ~[authlib-6.0.58.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfileByName(YggdrasilGameProfileRepository.java:109) ~[authlib-6.0.58.jar:?]
-	at awc.a(SourceFile:80) ~[server-25w15a.jar:?]
-	at awc.a(SourceFile:137) ~[server-25w15a.jar:?]
-	at ez.a(SourceFile:65) ~[server-25w15a.jar:?]
-	at ez.a(SourceFile:31) ~[server-25w15a.jar:?]
-	at aor.a(SourceFile:33) ~[server-25w15a.jar:?]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
-	at hw.a(SourceFile:29) ~[server-25w15a.jar:?]
-	at hw.execute(SourceFile:13) ~[server-25w15a.jar:?]
-	at hr.a(SourceFile:8) ~[server-25w15a.jar:?]
-	at hj.a(SourceFile:8) ~[server-25w15a.jar:?]
-	at hn.a(SourceFile:107) ~[server-25w15a.jar:?]
-	at el.a(SourceFile:390) ~[server-25w15a.jar:?]
-	at el.a(SourceFile:320) ~[server-25w15a.jar:?]
-	at el.a(SourceFile:310) ~[server-25w15a.jar:?]
-	at aqw.br(SourceFile:300) ~[server-25w15a.jar:?]
-	at aqw.G(SourceFile:282) ~[server-25w15a.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:1073) ~[server-25w15a.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:946) ~[server-25w15a.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:706) ~[server-25w15a.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:290) ~[server-25w15a.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[20:08:52] [Server thread/INFO]: Made zjrnyemi a server operator
-[20:08:59] [Server thread/INFO]: Made zJRNYEMI_ a server operator
-[20:09:04] [Server thread/INFO]: [zJRNYEMI_: Set own game mode to Creative Mode]
-[20:09:21] [Server thread/INFO]: [zJRNYEMI_: Set own game mode to Survival Mode]
-[20:11:42] [Server thread/INFO]: zJRNYEMI_ was slain by Zombie
+[18:22:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:22:12] [ServerMain/INFO]: Loaded 1406 recipes
+[18:22:12] [ServerMain/INFO]: Loaded 1519 advancements
+[18:22:13] [Server thread/INFO]: Starting minecraft server version 25w15a
+[18:22:13] [Server thread/INFO]: Loading properties
+[18:22:13] [Server thread/INFO]: Default game type: SURVIVAL
+[18:22:13] [Server thread/INFO]: Generating keypair
+[18:22:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:22:13] [Server thread/INFO]: Using epoll channel type
+[18:22:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:22:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:22:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:22:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:22:13] [Server thread/INFO]: Preparing level "world"
+[18:22:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:22:19] [Server thread/INFO]: Time elapsed: 5812 ms
+[18:22:19] [Server thread/INFO]: Done (6.215s)! For help, type "help"
+[18:22:40] [Server thread/INFO]: zJRNYEMI_[/172.24.158.109:3591] logged in with entity id 8 at (193.0614428396657, 92.0, -411.41819960948163)
+[18:22:41] [Server thread/INFO]: zJRNYEMI_ joined the game
+[18:25:42] [Server thread/INFO]: zahidmizrahi10[/172.24.26.112:59820] logged in with entity id 522 at (211.37542140493258, 88.0, -401.8105333769579)
+[18:25:42] [Server thread/INFO]: zahidmizrahi10 joined the game
+[18:25:48] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> qlq viejo
+[18:26:36] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> noooooo oo o o uuu la politzia noooooooouuuuu
+[18:27:13] [Server thread/INFO]: zahidmizrahi10 lost connection: Timed out
+[18:27:13] [Server thread/INFO]: zahidmizrahi10 left the game
+[18:27:13] [Server thread/WARN]: handleDisconnection() called twice
+[18:27:57] [Server thread/INFO]: zahidmizrahi10[/172.24.26.112:59823] logged in with entity id 923 at (223.69999998807907, 82.0, -431.1521499015384)
+[18:27:57] [Server thread/INFO]: zahidmizrahi10 joined the game
+[18:28:24] [Server thread/WARN]: zahidmizrahi10 moved too quickly! 0.020257704342668603,-1.0625,-10.012853887910467
+[18:28:27] [Server thread/INFO]: zahidmizrahi10 lost connection: Timed out
+[18:28:27] [Server thread/INFO]: zahidmizrahi10 left the game
