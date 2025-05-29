@@ -1,65 +1,124 @@
-[18:22:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:22:12] [ServerMain/INFO]: Loaded 1406 recipes
-[18:22:12] [ServerMain/INFO]: Loaded 1519 advancements
-[18:22:13] [Server thread/INFO]: Starting minecraft server version 25w15a
-[18:22:13] [Server thread/INFO]: Loading properties
-[18:22:13] [Server thread/INFO]: Default game type: SURVIVAL
-[18:22:13] [Server thread/INFO]: Generating keypair
-[18:22:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:22:13] [Server thread/INFO]: Using epoll channel type
-[18:22:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:22:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:22:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:22:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:22:13] [Server thread/INFO]: Preparing level "world"
-[18:22:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:22:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:22:19] [Server thread/INFO]: Time elapsed: 5812 ms
-[18:22:19] [Server thread/INFO]: Done (6.215s)! For help, type "help"
-[18:22:40] [Server thread/INFO]: zJRNYEMI_[/172.24.158.109:3591] logged in with entity id 8 at (193.0614428396657, 92.0, -411.41819960948163)
-[18:22:41] [Server thread/INFO]: zJRNYEMI_ joined the game
-[18:25:42] [Server thread/INFO]: zahidmizrahi10[/172.24.26.112:59820] logged in with entity id 522 at (211.37542140493258, 88.0, -401.8105333769579)
-[18:25:42] [Server thread/INFO]: zahidmizrahi10 joined the game
-[18:25:48] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> qlq viejo
-[18:26:36] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> noooooo oo o o uuu la politzia noooooooouuuuu
-[18:27:13] [Server thread/INFO]: zahidmizrahi10 lost connection: Timed out
-[18:27:13] [Server thread/INFO]: zahidmizrahi10 left the game
-[18:27:13] [Server thread/WARN]: handleDisconnection() called twice
-[18:27:57] [Server thread/INFO]: zahidmizrahi10[/172.24.26.112:59823] logged in with entity id 923 at (223.69999998807907, 82.0, -431.1521499015384)
-[18:27:57] [Server thread/INFO]: zahidmizrahi10 joined the game
-[18:28:24] [Server thread/WARN]: zahidmizrahi10 moved too quickly! 0.020257704342668603,-1.0625,-10.012853887910467
-[18:28:27] [Server thread/INFO]: zahidmizrahi10 lost connection: Timed out
-[18:28:27] [Server thread/INFO]: zahidmizrahi10 left the game
-[18:32:01] [Server thread/INFO]: zahidmizrahi10[/172.24.26.112:59832] logged in with entity id 1534 at (223.5378922469487, 81.162141421027, -441.6352500314963)
-[18:32:01] [Server thread/INFO]: zahidmizrahi10 joined the game
-[18:32:04] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> oie
-[18:32:13] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> que pasa que te sales y te vuelves a unir??
-[18:32:41] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> acepta la llamado
-[18:32:58] [Server thread/INFO]: zahidmizrahi10 fell from a high place
-[18:35:06] [Server thread/INFO]: zahidmizrahi10 has made the advancement [Ol' Betsy]
-[18:35:12] [Server thread/INFO]: zahidmizrahi10 has made the advancement [Take Aim]
-[18:38:24] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> 291 86 -318
-[18:46:44] [Server thread/INFO]: zahidmizrahi10 was doomed to fall by zJRNYEMI_
-[18:47:00] [Server thread/INFO]: [zJRNYEMI_: Teleported zahidmizrahi10 to zJRNYEMI_]
-[18:49:41] [Server thread/INFO]: zahidmizrahi10 fell from a high place
-[18:51:21] [Server thread/INFO]: zJRNYEMI_ was blown up by Creeper
-[18:58:32] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> 18 89 -267
-[19:01:40] [Server thread/INFO]: [zJRNYEMI_: Teleported zahidmizrahi10 to zJRNYEMI_]
-[19:02:55] [Server thread/INFO]: [Not Secure] <zJRNYEMI_> 1
-[19:04:32] [Server thread/INFO]: zahidmizrahi10 was slain by Zombie
-[19:04:45] [Server thread/INFO]: [zJRNYEMI_: Teleported zahidmizrahi10 to zJRNYEMI_]
-[19:06:36] [Server thread/INFO]: zJRNYEMI_ was slain by Zombie
-[19:06:50] [Server thread/INFO]: [zJRNYEMI_: Teleported zJRNYEMI_ to zahidmizrahi10]
-[19:12:41] [Server thread/INFO]: zahidmizrahi10 fell from a high place
-[19:20:19] [Server thread/INFO]: zahidmizrahi10 has made the advancement [A Seedy Place]
+[29May2025 22:57:29.413] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[29May2025 22:57:29.418] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[29May2025 22:57:29.694] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[29May2025 22:57:29.773] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server-nuevo/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[29May2025 22:57:30.123] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-nuevo/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[29May2025 22:57:30.126] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-nuevo/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29May2025 22:57:30.132] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-nuevo/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29May2025 22:57:30.138] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-nuevo/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29May2025 22:57:30.355] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[29May2025 22:57:32.956] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[29May2025 22:57:33.028] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[29May2025 22:57:33.113] [main/WARN] [mixin/]: Reference map 'apexcore.refmap.json' for apexcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[29May2025 22:57:42.366] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[29May2025 22:57:42.368] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[29May2025 22:57:42.541] [modloading-worker-0/INFO] [xyz.apex.forge.commonality.Mods.CommonalityMod/]: Running Minecraft '1.20.1', & Forge '47.3.7' on Java '17.0.15, Ubuntu'
+[29May2025 22:57:42.547] [modloading-worker-0/INFO] [TrustedSourceList/]: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
+[29May2025 22:57:42.630] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'apexcore' TrustWorthiness...
+[29May2025 22:57:42.693] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[29May2025 22:57:42.698] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
+[29May2025 22:57:43.075] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'fantasyfurniture' TrustWorthiness...
+[29May2025 22:57:43.076] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[29May2025 22:57:43.076] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'fantasyfurniture' TrustWorthiness: UNKNOWN
+[29May2025 22:57:43.649] [modloading-worker-0/INFO] [TrustedSourceList/]: Loaded 564 BlackListed sources from remote
+[29May2025 22:57:43.649] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'commonality' TrustWorthiness...
+[29May2025 22:57:43.649] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[29May2025 22:57:43.649] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
+[29May2025 22:57:47.036] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[29May2025 22:57:47.151] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
+[29May2025 22:57:47.152] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
+[29May2025 22:57:47.153] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
+[29May2025 22:57:47.154] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:burst_count for minecraft:player
+[29May2025 22:57:47.370] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23120!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23120!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[29May2025 22:57:47.372] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29May2025 22:57:47.507] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[29May2025 22:57:47.509] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
+[29May2025 22:57:47.719] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Found status: OUTDATED Current: 7.0.0 Target: 10.0.0
+[29May2025 22:57:47.719] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
+[29May2025 22:57:47.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Found status: UP_TO_DATE Current: 10.0.0 Target: null
+[29May2025 22:57:47.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Starting version check at https://api.modrinth.com/updates/fantasy-furniture/forge_updates.json
+[29May2025 22:57:47.824] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Found status: UP_TO_DATE Current: 9.0.0 Target: null
+[29May2025 22:57:54.815] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[29May2025 22:57:58.519] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server-nuevo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23119!/assets/.mcassetsroot' uses unexpected schema
+[29May2025 22:57:58.521] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server-nuevo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23119!/data/.mcassetsroot' uses unexpected schema
+[29May2025 22:58:01.864] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[29May2025 22:58:02.047] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1518 advancements
+[29May2025 22:58:04.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[29May2025 22:58:04.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29May2025 22:58:04.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29May2025 22:58:04.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29May2025 22:58:04.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29May2025 22:58:04.831] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[29May2025 22:58:04.945] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29May2025 22:58:04.946] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29May2025 22:58:04.947] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29May2025 22:58:04.948] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29May2025 22:58:05.008] [Server thread/INFO] [Framework/]: Loading server configs...
+[29May2025 22:58:05.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29May2025 22:58:11.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29May2025 22:58:18.758] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 22:58:18.763] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 22:58:18.765] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 22:58:18.766] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 22:58:18.770] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 22:58:18.771] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 22:58:18.773] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 22:58:18.775] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 22:58:18.777] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 22:58:18.780] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 22:58:18.783] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 22:58:18.786] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 22:58:18.790] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 22:58:18.792] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 22:58:18.808] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 22:58:19.308] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 22:58:19.808] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29May2025 22:58:20.378] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[29May2025 22:58:20.979] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9172 ms
+[29May2025 22:58:20.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.009s)! For help, type "help"
+[29May2025 22:58:21.013] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29May2025 22:58:36.163] [Thread-14/WARN] [SkinRestorer/]: failed to fetch skin
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.1.0+1.20-forge.jar%23116!/:2.1.0+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:121) ~[skinrestorer-2.1.0+1.20-forge.jar%23116!/:2.1.0+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:47) ~[skinrestorer-2.1.0+1.20-forge.jar%23116!/:2.1.0+1.20-forge]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23119!/:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23119!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:92) ~[skinrestorer-2.1.0+1.20-forge.jar%23116!/:2.1.0+1.20-forge]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdc47c83$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:578) ~[server-1.20.1-20230612.114412-srg.jar%23119!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:577) ~[server-1.20.1-20230612.114412-srg.jar%23119!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdc47c83$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:562) ~[server-1.20.1-20230612.114412-srg.jar%23119!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[29May2025 22:58:36.291] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zahidmizrahi10[/172.24.26.112:47144] logged in with entity id 302 at (168.14052755513538, 65.02442408821369, -14.972352825629475)
+[29May2025 22:58:36.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zahidmizrahi10 joined the game
+[29May2025 22:58:38.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: v1rus[/172.24.158.109:16727] logged in with entity id 396 at (24.202029421063536, 68.0, 10.255143964882198)
+[29May2025 22:58:38.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: v1rus joined the game
+[29May2025 22:58:42.842] [MiniServServer/INFO] [WebDisplays/]: Client with UUID 98eb681a-284c-3bdd-84e0-8718bf1d370f authenticated successfully
+[29May2025 22:58:45.785] [MiniServServer/INFO] [WebDisplays/]: Client with UUID 230bd10e-0ded-3c1b-b484-bfaa6c9d97c5 authenticated successfully
+[29May2025 22:59:11.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [v1rus: Skin changed]
+[29May2025 22:59:19.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: v1rus has made the advancement [The internet is for...]
+[29May2025 22:59:44.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zahidmizrahi10 has made the advancement [Monster Hunter]
+[29May2025 22:59:54.957] [Server thread/INFO] [WebDisplays/]: Player literal{v1rus} (UUID 230bd10e-0ded-3c1b-b484-bfaa6c9d97c5) created a screen at X: -59, Y: 65, Z: 81 of size 6x4
+[29May2025 23:01:43.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: v1rus has made the advancement [Monster Hunter]
+[29May2025 23:01:43.763] [Server thread/WARN] [jeg/]: literal{v1rus}(230bd10e-0ded-3c1b-b484-bfaa6c9d97c5) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 131
+[29May2025 23:02:15.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: v1rus has made the advancement [More than a screen]
+[29May2025 23:02:27.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: v1rus has made the advancement [It's wireless!]
+[29May2025 23:02:43.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [v1rus: Teleported zahidmizrahi10 to v1rus]
+[29May2025 23:04:07.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [v1rus: Teleported zahidmizrahi10 to v1rus]
+[29May2025 23:05:15.505] [Server thread/INFO] [WebDisplays/]: Player literal{v1rus} (UUID 230bd10e-0ded-3c1b-b484-bfaa6c9d97c5) created a screen at X: -59, Y: 63, Z: 81 of size 6x6
