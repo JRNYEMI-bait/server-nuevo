@@ -122,3 +122,45 @@ java.lang.IllegalStateException: not found
 [29May2025 23:02:43.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [v1rus: Teleported zahidmizrahi10 to v1rus]
 [29May2025 23:04:07.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [v1rus: Teleported zahidmizrahi10 to v1rus]
 [29May2025 23:05:15.505] [Server thread/INFO] [WebDisplays/]: Player literal{v1rus} (UUID 230bd10e-0ded-3c1b-b484-bfaa6c9d97c5) created a screen at X: -59, Y: 63, Z: 81 of size 6x6
+[29May2025 23:08:00.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [v1rus: Set zahidmizrahi10's game mode to Survival Mode]
+[29May2025 23:08:01.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zahidmizrahi10 was annihilated by v1rus
+[29May2025 23:08:02.221] [Server thread/WARN] [jeg/]: literal{v1rus}(230bd10e-0ded-3c1b-b484-bfaa6c9d97c5) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 85
+[29May2025 23:08:08.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [v1rus: Teleported zahidmizrahi10 to v1rus]
+[29May2025 23:08:29.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [v1rus: Set zahidmizrahi10's game mode to Creative Mode]
+[29May2025 23:10:57.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [v1rus: Set zahidmizrahi10's game mode to Survival Mode]
+[29May2025 23:11:09.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zahidmizrahi10 was annihilated by v1rus
+[29May2025 23:11:15.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [v1rus: Teleported zahidmizrahi10 to v1rus]
+[29May2025 23:11:24.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [v1rus: Set zahidmizrahi10's game mode to Creative Mode]
+[29May2025 23:11:40.355] [Server thread/INFO] [WebDisplays/]: Player literal{v1rus} (UUID 230bd10e-0ded-3c1b-b484-bfaa6c9d97c5) created a screen at X: -59, Y: 63, Z: 81 of size 6x6
+[29May2025 23:11:59.563] [Server thread/ERROR] [WebDisplays/]: TileEntityPeripheralBase.connect(): Tile entity at X: -59, Y: 63, Z: 81 is not a screen!
+[29May2025 23:12:08.599] [Server thread/INFO] [WebDisplays/]: Player literal{v1rus} (UUID 230bd10e-0ded-3c1b-b484-bfaa6c9d97c5) created a screen at X: -59, Y: 63, Z: 81 of size 6x6
+[29May2025 23:13:15.910] [Server thread/INFO] [WebDisplays/]: Player literal{v1rus} (UUID 230bd10e-0ded-3c1b-b484-bfaa6c9d97c5) created a screen at X: -59, Y: 63, Z: 81 of size 6x6
+[29May2025 23:13:48.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zahidmizrahi10 lost connection: Disconnected
+[29May2025 23:13:48.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zahidmizrahi10 left the game
+[29May2025 23:14:23.402] [Thread-32/WARN] [SkinRestorer/]: failed to fetch skin
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.1.0+1.20-forge.jar%23116!/:2.1.0+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:121) ~[skinrestorer-2.1.0+1.20-forge.jar%23116!/:2.1.0+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:47) ~[skinrestorer-2.1.0+1.20-forge.jar%23116!/:2.1.0+1.20-forge]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23119!/:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23119!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:92) ~[skinrestorer-2.1.0+1.20-forge.jar%23116!/:2.1.0+1.20-forge]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdc47c83$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:578) ~[server-1.20.1-20230612.114412-srg.jar%23119!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:577) ~[server-1.20.1-20230612.114412-srg.jar%23119!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdc47c83$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:562) ~[server-1.20.1-20230612.114412-srg.jar%23119!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[29May2025 23:14:23.448] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zahidmizrahi10[/172.24.26.112:47400] logged in with entity id 4975 at (-64.11842485407067, 62.0, 179.84787535033763)
+[29May2025 23:14:23.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zahidmizrahi10 joined the game
+[29May2025 23:14:26.428] [MiniServServer/INFO] [WebDisplays/]: Client with UUID 98eb681a-284c-3bdd-84e0-8718bf1d370f authenticated successfully
+[29May2025 23:14:51.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zahidmizrahi10 lost connection: Disconnected
+[29May2025 23:14:51.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zahidmizrahi10 left the game
+[29May2025 23:14:54.728] [MiniServServer/WARN] [WebDisplays/]: Could not read data from client
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at net.montoyo.wd.miniserv.server.Server.loopUnsafe(Server.java:176) ~[webdisplays-2.0.0-1.20.1.jar%23117!/:2.0.0-1.20.1]
+	at net.montoyo.wd.miniserv.server.Server.run(Server.java:117) ~[webdisplays-2.0.0-1.20.1.jar%23117!/:2.0.0-1.20.1]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[29May2025 23:17:34.857] [Server thread/INFO] [WebDisplays/]: Player literal{v1rus} (UUID 230bd10e-0ded-3c1b-b484-bfaa6c9d97c5) created a screen at X: -59, Y: 63, Z: 81 of size 6x6
