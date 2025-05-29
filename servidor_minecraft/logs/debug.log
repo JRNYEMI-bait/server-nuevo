@@ -2560,3 +2560,7 @@ java.net.SocketException: Connection reset
 	at net.montoyo.wd.miniserv.server.Server.run(Server.java:117) ~[webdisplays-2.0.0-1.20.1.jar%23117!/:2.0.0-1.20.1]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [29May2025 23:17:34.857] [Server thread/INFO] [WebDisplays/]: Player literal{v1rus} (UUID 230bd10e-0ded-3c1b-b484-bfaa6c9d97c5) created a screen at X: -59, Y: 63, Z: 81 of size 6x6
+[29May2025 23:18:20.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 23:18:20.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 23:23:20.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 23:23:20.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
