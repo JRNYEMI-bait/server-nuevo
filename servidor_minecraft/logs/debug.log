@@ -2414,3 +2414,16 @@ java.net.SocketException: Connection reset
 [01Jun2025 01:03:13.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jun2025 01:03:34.136] [Server thread/INFO] [WebDisplays/]: Player literal{v1rus} (UUID 230bd10e-0ded-3c1b-b484-bfaa6c9d97c5) created a screen at X: -140, Y: 63, Z: 71 of size 4x3
 [01Jun2025 01:05:25.538] [Server thread/INFO] [WebDisplays/]: Player literal{v1rus} (UUID 230bd10e-0ded-3c1b-b484-bfaa6c9d97c5) created a screen at X: -140, Y: 61, Z: 71 of size 6x5
+[01Jun2025 01:08:13.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 01:08:13.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 01:08:17.299] [Server thread/INFO] [WebDisplays/]: Player literal{v1rus} (UUID 230bd10e-0ded-3c1b-b484-bfaa6c9d97c5) created a screen at X: -140, Y: 61, Z: 71 of size 6x5
+[01Jun2025 01:08:18.843] [Server thread/INFO] [WebDisplays/]: Player literal{v1rus} (UUID 230bd10e-0ded-3c1b-b484-bfaa6c9d97c5) created a screen at X: -140, Y: 61, Z: 71 of size 6x5
+[01Jun2025 01:12:58.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [v1rus: Successfully filled 3719 block(s)]
+[01Jun2025 01:13:13.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 01:13:13.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 01:13:52.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [v1rus: Successfully filled 985 block(s)]
+[01Jun2025 01:14:31.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [v1rus: Successfully filled 94 block(s)]
+[01Jun2025 01:14:57.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [v1rus: Successfully filled 100 block(s)]
+[01Jun2025 01:15:10.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [v1rus: Successfully filled 158 block(s)]
+[01Jun2025 01:15:28.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [v1rus: Successfully filled 56 block(s)]
+[01Jun2025 01:15:53.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [v1rus: Successfully filled 12 block(s)]
