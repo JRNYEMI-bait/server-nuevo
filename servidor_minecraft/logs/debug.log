@@ -2277,3 +2277,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Jun2025 00:54:01.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: v1rus joined the game
 [08Jun2025 00:54:02.103] [Server thread/DEBUG] [io.netty.util.internal.ThreadLocalRandom/]: -Dio.netty.initialSeedUniquifier: 0x25124322fbdb0c73
 [08Jun2025 00:54:07.100] [MiniServServer/INFO] [WebDisplays/]: Client with UUID 230bd10e-0ded-3c1b-b484-bfaa6c9d97c5 authenticated successfully
+[08Jun2025 00:57:40.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 00:57:40.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 01:01:53.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [v1rus: Successfully filled 72 block(s)]
+[08Jun2025 01:02:40.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 01:02:40.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 01:04:12.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [v1rus: Set the weather to clear]
