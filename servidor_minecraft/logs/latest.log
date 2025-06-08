@@ -105,3 +105,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Jun2025 00:27:40.128] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [08Jun2025 00:43:13.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [08Jun2025 00:43:13.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tp<--[HERE]
+[08Jun2025 00:54:01.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: v1rus[/172.24.158.109:17256] logged in with entity id 262 at (-99.5564111512065, 73.0, 82.32476266378269)
+[08Jun2025 00:54:01.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: v1rus joined the game
+[08Jun2025 00:54:07.100] [MiniServServer/INFO] [WebDisplays/]: Client with UUID 230bd10e-0ded-3c1b-b484-bfaa6c9d97c5 authenticated successfully
