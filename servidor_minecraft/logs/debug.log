@@ -2137,3 +2137,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Jun2025 00:27:40.420] [Server thread/DEBUG] [mixin/]: skinrestorer.mixins.json:TrackedEntityAccessorInvoker: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
 [08Jun2025 00:32:40.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jun2025 00:32:40.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 00:37:40.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 00:37:40.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 00:42:40.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 00:42:40.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 00:43:13.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jun2025 00:43:13.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tp<--[HERE]

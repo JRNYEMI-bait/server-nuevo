@@ -103,3 +103,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Jun2025 00:27:39.872] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 15531 ms
 [08Jun2025 00:27:39.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (26.774s)! For help, type "help"
 [08Jun2025 00:27:40.128] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[08Jun2025 00:43:13.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jun2025 00:43:13.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tp<--[HERE]
