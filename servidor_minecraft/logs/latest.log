@@ -1,50 +1,42 @@
-[16:50:30] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[16:50:31] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:50:33] [ServerMain/INFO]: Loaded 7 recipes
-[16:50:33] [ServerMain/INFO]: Loaded 1271 advancements
-[16:50:34] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[16:50:34] [Server thread/INFO]: Loading properties
-[16:50:34] [Server thread/INFO]: Default game type: SURVIVAL
-[16:50:34] [Server thread/INFO]: Generating keypair
-[16:50:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:50:34] [Server thread/INFO]: Using epoll channel type
-[16:50:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:50:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:50:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:50:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:50:34] [Server thread/INFO]: Preparing level "world"
-[16:50:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:50:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:47] [Server thread/INFO]: Time elapsed: 7759 ms
-[16:50:47] [Server thread/INFO]: Done (12.955s)! For help, type "help"
-[16:51:01] [Server thread/INFO]: Nightww[/172.24.158.109:19603] logged in with entity id 256 at (137.50200661110557, 86.89044745325997, 48.431333528262)
-[16:51:01] [Server thread/INFO]: Nightww joined the game
-[16:51:08] [Server thread/INFO]: [Not Secure] <Nightww> sha
-[16:51:12] [Server thread/INFO]: zahidmizrahi10[/172.24.26.112:39044] logged in with entity id 349 at (141.383535021557, 90.16610926093821, 52.26768889640426)
-[16:51:12] [Server thread/INFO]: zahidmizrahi10 joined the game
-[16:52:08] [Server thread/INFO]: zahidmizrahi10 has made the advancement [Monster Hunter]
-[16:52:25] [Server thread/INFO]: zahidmizrahi10 was slain by Zombie
-[16:53:44] [Server thread/INFO]: [Not Secure] <Nightww> 141 89 43
-[17:01:46] [Server thread/WARN]: zahidmizrahi10 moved too quickly! 7.9322565716028635,1.0,-6.144634754677384
-[17:08:20] [Server thread/INFO]: zahidmizrahi10 has made the advancement [Sweet Dreams]
-[17:08:21] [Server thread/INFO]: Nightww has made the advancement [Sweet Dreams]
-[17:17:51] [Server thread/INFO]: Nightww has made the advancement [Acquire Hardware]
-[17:22:25] [Server thread/INFO]: zahidmizrahi10 has made the advancement [Acquire Hardware]
-[17:22:32] [Server thread/INFO]: zahidmizrahi10 has made the advancement [Isn't It Iron Pick]
-[17:22:49] [Server thread/INFO]: Nightww has made the advancement [Isn't It Iron Pick]
-[17:25:48] [Server thread/INFO]: Nightww has made the advancement [Not Today, Thank You]
-[17:29:57] [Server thread/INFO]: zahidmizrahi10 has made the advancement [Suit Up]
+[23:19:25] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[23:19:25] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:19:27] [ServerMain/INFO]: Loaded 7 recipes
+[23:19:27] [ServerMain/INFO]: Loaded 1271 advancements
+[23:19:28] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[23:19:28] [Server thread/INFO]: Loading properties
+[23:19:28] [Server thread/INFO]: Default game type: SURVIVAL
+[23:19:28] [Server thread/INFO]: Generating keypair
+[23:19:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:19:28] [Server thread/INFO]: Using epoll channel type
+[23:19:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:19:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:19:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:19:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:19:28] [Server thread/INFO]: Preparing level "world"
+[23:19:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:42] [Server thread/INFO]: Time elapsed: 8045 ms
+[23:19:42] [Server thread/INFO]: Done (13.391s)! For help, type "help"
+[23:20:24] [Server thread/INFO]: Nightww[/172.24.158.109:30320] logged in with entity id 136 at (-931.438751222977, 79.0, -59.025878860100036)
+[23:20:24] [Server thread/INFO]: Nightww joined the game
+[23:20:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2454ms or 49 ticks behind
+[23:21:21] [Server thread/INFO]: zahidmizrahi10[/172.24.26.112:14973] logged in with entity id 425 at (-917.618097019095, 80.0, -60.18801142220492)
+[23:21:21] [Server thread/INFO]: zahidmizrahi10 joined the game
+[23:21:24] [Server thread/INFO]: [Not Secure] <Nightww> veni w
+[23:26:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-395, y=64, z=-246} gu{x=-396, y=62, z=-246}
+[23:36:50] [Server thread/WARN]: Boat (vehicle of Nightww) moved wrongly! 0.35293346425544314
