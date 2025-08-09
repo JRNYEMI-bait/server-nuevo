@@ -1,44 +1,73 @@
-[02:24:30] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[02:24:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:24:32] [ServerMain/INFO]: Loaded 7 recipes
-[02:24:32] [ServerMain/INFO]: Loaded 1271 advancements
-[02:24:33] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[02:24:33] [Server thread/INFO]: Loading properties
-[02:24:33] [Server thread/INFO]: Default game type: SURVIVAL
-[02:24:33] [Server thread/INFO]: Generating keypair
-[02:24:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:24:33] [Server thread/INFO]: Using epoll channel type
-[02:24:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:24:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:24:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:24:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:24:33] [Server thread/INFO]: Preparing level "world"
-[02:24:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:24:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:47] [Server thread/INFO]: Time elapsed: 8220 ms
-[02:24:47] [Server thread/INFO]: Done (13.787s)! For help, type "help"
-[02:24:54] [Server thread/INFO]: Nightww[/172.24.158.109:36762] logged in with entity id 142 at (2875.852017939195, 120.0, 2259.339973866416)
-[02:24:55] [Server thread/INFO]: Nightww joined the game
-[02:24:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3521ms or 70 ticks behind
-[02:25:10] [Server thread/INFO]: zahidmizrahi10[/172.24.26.112:33948] logged in with entity id 362 at (2877.54893569834, 120.0, 2260.9304890581852)
-[02:25:10] [Server thread/INFO]: zahidmizrahi10 joined the game
-[02:26:09] [Server thread/INFO]: [Not Secure] <Nightww> checa eso bro
-[02:26:12] [Server thread/INFO]: [Not Secure] <Nightww> alla arriba
-[02:26:28] [Server thread/INFO]: [Not Secure] <Nightww> como hiciste los carteles??
-[02:27:15] [Server thread/INFO]: [Not Secure] <Nightww> UF
-[02:27:20] [Server thread/INFO]: [Not Secure] <Nightww> NOO
+[15:55:48] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[15:55:48] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:55:50] [ServerMain/INFO]: Loaded 7 recipes
+[15:55:50] [ServerMain/INFO]: Loaded 1271 advancements
+[15:55:51] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[15:55:51] [Server thread/INFO]: Loading properties
+[15:55:51] [Server thread/INFO]: Default game type: SURVIVAL
+[15:55:51] [Server thread/INFO]: Generating keypair
+[15:55:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:55:51] [Server thread/INFO]: Using epoll channel type
+[15:55:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:55:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:55:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:55:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:55:51] [Server thread/INFO]: Preparing level "world"
+[15:55:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:56:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:56:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:56:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:56:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:56:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:56:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:56:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:56:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:56:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:56:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:56:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:56:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:56:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:56:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:56:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:56:04] [Worker-Main-1/INFO]: Preparing spawn area: 83%
+[15:56:04] [Server thread/INFO]: Time elapsed: 7732 ms
+[15:56:04] [Server thread/INFO]: Done (13.006s)! For help, type "help"
+[15:56:36] [Server thread/INFO]: Nightww[/172.24.158.109:44607] logged in with entity id 141 at (2899.73037760549, 119.0, 2240.4325727583814)
+[15:56:36] [Server thread/INFO]: Nightww joined the game
+[15:56:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[15:56:59] [Server thread/INFO]: zahidmizrahi10[/172.24.26.112:35818] logged in with entity id 370 at (2876.2838668072677, 120.0, 2258.2790566098793)
+[15:56:59] [Server thread/INFO]: zahidmizrahi10 joined the game
+[16:02:06] [Server thread/INFO]: Nightww lost connection: Timed out
+[16:02:06] [Server thread/INFO]: Nightww left the game
+[16:04:18] [Server thread/INFO]: Nightww[/172.24.158.109:44993] logged in with entity id 2040 at (2901.699999988079, 119.0, 2252.3055273825253)
+[16:04:18] [Server thread/INFO]: Nightww joined the game
+[16:07:16] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> hola
+[16:07:20] [Server thread/INFO]: [Not Secure] <Nightww> qlq rey
+[16:07:28] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> bro q haces?
+[16:07:30] [Server thread/INFO]: [Not Secure] <Nightww> toy aqui viendo cuando detonan estos aldeanes
+[16:07:33] [Server thread/INFO]: [Not Secure] <Nightww> aldeanos*
+[16:07:41] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> loco
+[16:07:56] [Server thread/INFO]: [Not Secure] <Nightww> loco??
+[16:07:59] [Server thread/INFO]: [Not Secure] <Nightww> necesito chamacos we
+[16:08:10] [Server thread/INFO]: [Not Secure] <Nightww> sin chamacos no hay granjas :V
+[16:08:16] [Server thread/INFO]: [Not Secure] <Nightww> sacate ahi una comidita bro
+[16:08:19] [Server thread/INFO]: [Not Secure] <Nightww> pan o lo que sea
+[16:08:29] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> voy
+[16:08:33] [Server thread/INFO]: [Not Secure] <Nightww> pero que no sea carne q los aldeanos estos mrderos son vegetarianos
+[16:09:09] [Server thread/INFO]: [Not Secure] <Nightww> pa darle a los aldeanos estos y que hagan el gou gou
+[16:09:12] [Server thread/INFO]: [Not Secure] <Nightww> xd
+[16:09:18] [Server thread/INFO]: [Not Secure] <Nightww> eso si va a estar sousou
+[16:12:11] [Server thread/INFO]: zahidmizrahi10 has made the advancement [Not Today, Thank You]
+[16:12:14] [Server thread/INFO]: [Not Secure] <Nightww> wao
+[16:14:26] [Server thread/INFO]: [Not Secure] <Nightww> el primer hijo
+[16:14:29] [Server thread/INFO]: [Not Secure] <Nightww> lets go
+[16:14:39] [Server thread/INFO]: [Not Secure] <Nightww> segundo*
+[16:14:48] [Server thread/INFO]: [Not Secure] <Nightww> pero el primero se murio my brother
+[16:14:49] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> gogogogogogogogo
+[16:15:02] [Server thread/INFO]: [Not Secure] <Nightww> xd
+[16:15:05] [Server thread/INFO]: [Not Secure] <Nightww> OGOGOGGOGGO
+[16:15:07] [Server thread/INFO]: [Not Secure] <Nightww> og*
+[16:15:10] [Server thread/INFO]: [Not Secure] <Nightww> yo soy og bro
+[16:15:21] [Server thread/INFO]: [Not Secure] <Nightww> nace bebe
+[16:15:25] [Server thread/INFO]: [Not Secure] <Nightww> ojala salga hetero
+[16:15:26] [Server thread/INFO]: [Not Secure] <Nightww> y no gay
