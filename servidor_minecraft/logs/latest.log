@@ -1,132 +1,44 @@
-[00:29:02] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[00:29:02] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:29:04] [ServerMain/INFO]: Loaded 7 recipes
-[00:29:05] [ServerMain/INFO]: Loaded 1271 advancements
-[00:29:05] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[00:29:05] [Server thread/INFO]: Loading properties
-[00:29:05] [Server thread/INFO]: Default game type: SURVIVAL
-[00:29:05] [Server thread/INFO]: Generating keypair
-[00:29:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:29:05] [Server thread/INFO]: Using epoll channel type
-[00:29:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:29:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:29:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:29:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:29:05] [Server thread/INFO]: Preparing level "world"
-[00:29:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:29:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:29:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:29:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:29:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:29:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:29:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:29:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:29:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:29:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:29:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:29:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:29:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:29:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:29:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:29:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:29:19] [Worker-Main-1/INFO]: Preparing spawn area: 7%
-[00:29:19] [Server thread/INFO]: Time elapsed: 7874 ms
-[00:29:19] [Server thread/INFO]: Done (13.480s)! For help, type "help"
-[00:29:37] [Server thread/INFO]: Nightww[/172.24.158.109:30487] logged in with entity id 142 at (2739.9233619460315, 84.0, 2411.80766841449)
-[00:29:37] [Server thread/INFO]: Nightww joined the game
-[00:29:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2854ms or 57 ticks behind
-[00:52:58] [Server thread/INFO]: zahidmizrahi10[/172.24.26.112:33320] logged in with entity id 4311 at (2816.251931162985, 102.0, 2147.699999988079)
-[00:52:58] [Server thread/INFO]: zahidmizrahi10 joined the game
-[00:59:24] [Server thread/INFO]: [Not Secure] <Nightww> e
-[01:06:55] [Server thread/INFO]: zahidmizrahi10 fell from a high place
-[01:11:04] [Server thread/INFO]: zahidmizrahi10 fell from a high place
-[01:23:39] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> a mimir
-[01:23:42] [Server thread/INFO]: [Not Secure] <Nightww> perate
-[01:23:45] [Server thread/INFO]: [Not Secure] <Nightww> xq colgaste?
-[01:23:52] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> ok
-[01:26:36] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> para q me diste una cama
-[01:26:43] [Server thread/INFO]: [Not Secure] <Nightww> no te la di
-[01:26:51] [Server thread/INFO]: [Not Secure] <Nightww> y cuando estabas abriendo las puertas perdi al aldeano sin chamba
-[01:27:08] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> se metio a la casa
-[01:27:13] [Server thread/INFO]: [Not Secure] <Nightww> NETA?
-[01:27:14] [Server thread/INFO]: [Not Secure] <Nightww> Aver
-[01:27:46] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> las camas pe
-[01:27:49] [Server thread/INFO]: [Not Secure] <Nightww> perate
-[01:29:13] [Server thread/INFO]: [Not Secure] <Nightww> lets go
-[01:29:19] [Server thread/INFO]: [Not Secure] <Nightww> primer aldeano capturado
-[01:31:46] [Server thread/INFO]: Villager byb['Villager'/2187, l='ServerLevel[world]', x=2900.30, y=111.00, z=2301.30] died, message: 'Villager was slain by Zombie'
-[01:33:45] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> ESMERALDA
-[01:36:43] [Server thread/INFO]: [Not Secure] <Nightww> u can?
-[01:36:49] [Server thread/INFO]: [Not Secure] <Nightww> u are sure if u can?
-[01:36:49] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> YES
-[01:36:54] [Server thread/INFO]: [Not Secure] <Nightww> COME ON MAN
-[01:36:55] [Server thread/INFO]: [Not Secure] <Nightww> U CAN
-[01:37:46] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> creo que listo
-[01:37:58] [Server thread/INFO]: [Not Secure] <Nightww> alrededor de 20 necesito bro
-[01:39:53] [Server thread/INFO]: [Not Secure] <Nightww> bro
-[01:39:57] [Server thread/INFO]: [Not Secure] <Nightww> pon todos los troncos
-[01:40:23] [Server thread/INFO]: [Not Secure] <Nightww> BRO QUE HICISTE CON LA MADERA
-[01:40:27] [Server thread/INFO]: [Not Secure] <Nightww> ...
-[01:40:43] [Server thread/INFO]: [Not Secure] <Nightww> queria que tuviera el interior...
-[01:41:01] [Server thread/INFO]: [Not Secure] <Nightww> we
-[01:41:04] [Server thread/INFO]: [Not Secure] <Nightww> busca normal
-[01:41:11] [Server thread/INFO]: [Not Secure] <Nightww> no la cambies como hiciste con esta
-[01:41:13] [Server thread/INFO]: [Not Secure] <Nightww> por favor
-[01:42:32] [Server thread/INFO]: [Not Secure] <Nightww> y si puedes dale rapido que se hace de noche hermano mio
-[01:43:53] [Server thread/INFO]: zahidmizrahi10 burned to death
-[01:43:58] [Server thread/INFO]: [Not Secure] <Nightww> QUE??
-[01:44:01] [Server thread/INFO]: [Not Secure] <Nightww> ZAHID DONDE CAISTE
-[01:44:37] [Server thread/INFO]: [Not Secure] <Nightww> NOJOD
-[01:44:41] [Server thread/INFO]: [Not Secure] <Nightww> zahid tus cosas...
-[01:45:16] [Server thread/INFO]: [Not Secure] <Nightww> que paso
-[01:45:43] [Server thread/INFO]: [Not Secure] <Nightww> AGARRA
-[01:45:44] [Server thread/INFO]: [Not Secure] <Nightww> TU PODES
-[01:45:52] [Server thread/INFO]: [Not Secure] <Nightww> bro
-[01:45:53] [Server thread/INFO]: [Not Secure] <Nightww> tus cosas
-[01:45:57] [Server thread/INFO]: [Not Secure] <Nightww> te quemaste en la lava?
-[01:46:03] [Server thread/INFO]: [Not Secure] <Nightww> :0
-[01:46:33] [Server thread/INFO]: [Not Secure] <Nightww> MALDITO JOCKEY
-[01:46:37] [Server thread/INFO]: [Not Secure] <Nightww> COMO PEGA DE DURO NOJOD
-[01:47:05] [Server thread/INFO]: [Not Secure] <Nightww> espera
-[01:47:11] [Server thread/INFO]: [Not Secure] <Nightww> SI SIRVEE
-[01:47:30] [Server thread/INFO]: [Not Secure] <Nightww> duerme
-[01:50:31] [Server thread/INFO]: [Not Secure] <Nightww> hermoso bro
-[01:50:44] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> SIIIIIII yipeee
-[01:50:46] [Server thread/INFO]: [Not Secure] <Nightww> xd
-[01:50:49] [Server thread/INFO]: [Not Secure] <Nightww> pero
-[01:50:54] [Server thread/INFO]: [Not Secure] <Nightww> no me convence del tanto eh
-[01:51:03] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> puto
-[01:51:10] [Server thread/INFO]: [Not Secure] <Nightww> seria usar trampillas por afuera c
-[01:51:12] [Server thread/INFO]: [Not Secure] <Nightww> creo*
-[01:51:44] [Server thread/INFO]: [Not Secure] <Nightww> hay que pensar mejor para ver que queda mejor en la cas
-[01:51:46] [Server thread/INFO]: [Not Secure] <Nightww> a
-[01:51:56] [Server thread/INFO]: [Not Secure] <Nightww> se que te esfuerzas bro, pero es que tambien la estetica es necesaria
-[01:52:14] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> ya va
-[01:52:22] [Server thread/INFO]: [Not Secure] <Nightww> aja
-[01:52:26] [Server thread/INFO]: [Not Secure] <Nightww> las quieres pasar??
-[01:52:30] [Server thread/INFO]: [Not Secure] <Nightww> las trampillas
-[01:52:30] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> dame la madera
-[01:52:40] [Server thread/INFO]: [Not Secure] <Nightww> NO LA PONGAS
-[01:52:43] [Server thread/INFO]: [Not Secure] <Nightww> se ve feo mano
-[01:53:22] [Server thread/INFO]: [Not Secure] <Nightww> sin el afan de ofender
-[01:53:40] [Server thread/INFO]: [Not Secure] <Nightww> emm
-[01:53:44] [Server thread/INFO]: [Not Secure] <Nightww> pense que la estabas rompiendo
-[01:53:45] [Server thread/INFO]: [Not Secure] <Nightww> :V
-[01:53:47] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> siempre es lo que tu quieres
-[01:53:50] [Server thread/INFO]: [Not Secure] <Nightww> perdon bro
-[01:53:56] [Server thread/INFO]: [Not Secure] <Nightww> pero vamos a mejorar tu idea
-[01:54:14] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> dame las trapillas
-[01:54:24] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> trampillas*
-[01:55:36] [Server thread/INFO]: [Not Secure] <Nightww> uff ya se
-[01:55:55] [Server thread/INFO]: [Not Secure] <Nightww> god
-[02:01:46] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> jose
-[02:01:49] [Server thread/INFO]: [Not Secure] <Nightww> jabla
-[02:02:01] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> esta cama es tuya
-[02:02:05] [Server thread/INFO]: [Not Secure] <Nightww> la gris
-[02:02:07] [Server thread/INFO]: [Not Secure] <Nightww> a si la tire
-[02:02:12] [Server thread/INFO]: [Not Secure] <Nightww> xq tengo el inventory lleno+
-[02:02:32] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> al menos metela en el cofre
-[02:02:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=2867, y=127, z=2156} gu{x=2868, y=127, z=2154}
-[02:02:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=2867, y=127, z=2156} gu{x=2868, y=127, z=2154}
-[02:02:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=2867, y=127, z=2156} gu{x=2868, y=127, z=2154}
-[02:03:44] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=2874, y=125, z=2150} gu{x=2873, y=125, z=2149}
+[02:24:30] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[02:24:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:24:32] [ServerMain/INFO]: Loaded 7 recipes
+[02:24:32] [ServerMain/INFO]: Loaded 1271 advancements
+[02:24:33] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[02:24:33] [Server thread/INFO]: Loading properties
+[02:24:33] [Server thread/INFO]: Default game type: SURVIVAL
+[02:24:33] [Server thread/INFO]: Generating keypair
+[02:24:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:24:33] [Server thread/INFO]: Using epoll channel type
+[02:24:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:24:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:24:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:24:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:24:33] [Server thread/INFO]: Preparing level "world"
+[02:24:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:24:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:47] [Server thread/INFO]: Time elapsed: 8220 ms
+[02:24:47] [Server thread/INFO]: Done (13.787s)! For help, type "help"
+[02:24:54] [Server thread/INFO]: Nightww[/172.24.158.109:36762] logged in with entity id 142 at (2875.852017939195, 120.0, 2259.339973866416)
+[02:24:55] [Server thread/INFO]: Nightww joined the game
+[02:24:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3521ms or 70 ticks behind
+[02:25:10] [Server thread/INFO]: zahidmizrahi10[/172.24.26.112:33948] logged in with entity id 362 at (2877.54893569834, 120.0, 2260.9304890581852)
+[02:25:10] [Server thread/INFO]: zahidmizrahi10 joined the game
+[02:26:09] [Server thread/INFO]: [Not Secure] <Nightww> checa eso bro
+[02:26:12] [Server thread/INFO]: [Not Secure] <Nightww> alla arriba
+[02:26:28] [Server thread/INFO]: [Not Secure] <Nightww> como hiciste los carteles??
+[02:27:15] [Server thread/INFO]: [Not Secure] <Nightww> UF
+[02:27:20] [Server thread/INFO]: [Not Secure] <Nightww> NOO
