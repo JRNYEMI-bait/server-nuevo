@@ -1,57 +1,44 @@
-[16:30:07] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[16:30:07] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:30:09] [ServerMain/INFO]: Loaded 7 recipes
-[16:30:09] [ServerMain/INFO]: Loaded 1271 advancements
-[16:30:10] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[16:30:10] [Server thread/INFO]: Loading properties
-[16:30:10] [Server thread/INFO]: Default game type: SURVIVAL
-[16:30:10] [Server thread/INFO]: Generating keypair
-[16:30:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:30:10] [Server thread/INFO]: Using epoll channel type
-[16:30:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:30:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:30:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:30:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:30:10] [Server thread/INFO]: Preparing level "world"
-[16:30:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:30:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:30:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:30:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:30:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:30:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:30:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:30:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:30:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:30:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:30:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:30:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:30:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:30:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:30:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:30:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:30:23] [Server thread/INFO]: Time elapsed: 7589 ms
-[16:30:23] [Server thread/INFO]: Done (13.045s)! For help, type "help"
-[16:30:39] [Server thread/INFO]: Nightww[/172.24.158.109:13434] logged in with entity id 144 at (2902.6991596119733, 111.5625, 2301.966029158772)
-[16:30:39] [Server thread/INFO]: Nightww joined the game
-[16:30:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2411ms or 48 ticks behind
-[16:30:49] [Server thread/INFO]: zahidmizrahi10[/172.24.26.112:24723] logged in with entity id 331 at (2872.450941901942, 122.17675927506424, 2266.4640444628635)
-[16:30:49] [Server thread/INFO]: zahidmizrahi10 joined the game
-[16:30:59] [Server thread/INFO]: [Not Secure] <Nightww> apura
-[16:31:05] [Server thread/INFO]: [Not Secure] <Nightww> que si no este aldeano se escapa
-[16:31:32] [Server thread/INFO]: [Not Secure] <Nightww> we
-[16:31:38] [Server thread/INFO]: [Not Secure] <Nightww> en el agua infinita
-[16:31:43] [Server thread/INFO]: [Not Secure] <Nightww> el cuadrado...
-[16:32:23] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> es que ya tenia un cubo con agua
-[16:32:27] [Server thread/INFO]: [Not Secure] <Nightww> a god
-[16:33:20] [Server thread/INFO]: [Not Secure] <Nightww> zahid aplana ahi porfa
-[16:33:30] [Server thread/INFO]: [Not Secure] <Nightww> ahi en el borde del jueco
-[16:33:31] [Server thread/INFO]: [Not Secure] <Nightww> hueco*
-[16:34:03] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> y adentro?
-[16:34:07] [Server thread/INFO]: [Not Secure] <Nightww> nou
-[16:36:55] [Server thread/INFO]: [Not Secure] <Nightww> haz un cartel hazme la segunda bro
-[16:38:30] [Server thread/INFO]: [Not Secure] <Nightww> deja busco lava
-[16:38:53] [Server thread/INFO]: Nightww has made the advancement [Hot Stuff]
-[16:39:18] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> una pergunta?
-[16:39:21] [Server thread/INFO]: [Not Secure] <Nightww> tirala
-[16:39:46] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> cuando terminemos la granja vamos a la cueva
-[16:39:50] [Server thread/INFO]: [Not Secure] <Nightww> dale
+[19:47:26] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[19:47:26] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:47:28] [ServerMain/INFO]: Loaded 7 recipes
+[19:47:28] [ServerMain/INFO]: Loaded 1271 advancements
+[19:47:29] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[19:47:29] [Server thread/INFO]: Loading properties
+[19:47:29] [Server thread/INFO]: Default game type: SURVIVAL
+[19:47:29] [Server thread/INFO]: Generating keypair
+[19:47:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:47:29] [Server thread/INFO]: Using epoll channel type
+[19:47:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:47:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:47:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:47:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:47:29] [Server thread/INFO]: Preparing level "world"
+[19:47:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:47:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:47:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:47:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:47:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:47:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:47:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:47:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:47:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:47:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:47:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:47:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:47:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:47:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:47:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:47:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:47:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:47:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:47:43] [Worker-Main-1/INFO]: Preparing spawn area: 98%
+[19:47:43] [Server thread/INFO]: Time elapsed: 8752 ms
+[19:47:43] [Server thread/INFO]: Done (14.288s)! For help, type "help"
+[19:48:06] [Server thread/INFO]: Nightww[/172.24.158.109:29745] logged in with entity id 144 at (2900.3312499732547, 120.18668707874468, 2238.964244412342)
+[19:48:06] [Server thread/INFO]: Nightww joined the game
+[19:48:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2708ms or 54 ticks behind
+[19:48:16] [Server thread/WARN]: Nightww was kicked for floating too long!
+[19:48:16] [Server thread/INFO]: Nightww lost connection: Flying is not enabled on this server
+[19:48:16] [Server thread/INFO]: Nightww left the game
+[19:48:44] [Server thread/INFO]: Nightww[/172.24.158.109:29789] logged in with entity id 359 at (2900.3312499732547, 120.18668707874468, 2238.964244412342)
+[19:48:44] [Server thread/INFO]: Nightww joined the game
