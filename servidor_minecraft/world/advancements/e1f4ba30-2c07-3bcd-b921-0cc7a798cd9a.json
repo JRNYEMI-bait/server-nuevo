@@ -391,6 +391,7 @@
       "potato": "2025-08-10 22:21:24 +0000",
       "bread": "2025-08-06 17:29:25 +0000",
       "melon_slice": "2025-08-05 23:27:59 +0000",
+      "cooked_rabbit": "2025-08-11 16:14:25 +0000",
       "cooked_chicken": "2025-08-05 16:54:43 +0000"
     },
     "done": false
@@ -2268,6 +2269,24 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-08-11 02:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-08-11 16:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-11 16:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-11 16:14:23 +0000"
     },
     "done": true
   },
