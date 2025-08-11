@@ -1,62 +1,76 @@
-[01:51:52] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:51:55] [ServerMain/INFO]: Loaded 7 recipes
-[01:51:55] [ServerMain/INFO]: Loaded 1271 advancements
-[01:51:55] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[01:51:55] [Server thread/INFO]: Loading properties
-[01:51:55] [Server thread/INFO]: Default game type: SURVIVAL
-[01:51:55] [Server thread/INFO]: Generating keypair
-[01:51:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:51:56] [Server thread/INFO]: Using epoll channel type
-[01:51:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:51:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:51:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:51:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:51:56] [Server thread/INFO]: Preparing level "world"
-[01:52:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:52:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:52:09] [Server thread/INFO]: Time elapsed: 7610 ms
-[01:52:09] [Server thread/INFO]: Done (12.851s)! For help, type "help"
-[01:52:09] [Server thread/INFO]: zahidmizrahi10[/172.24.26.112:32546] logged in with entity id 122 at (2904.118562931684, 97.0, 2320.6869431199916)
-[01:52:09] [Server thread/INFO]: zahidmizrahi10 joined the game
-[01:52:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2299ms or 45 ticks behind
-[01:52:39] [Server thread/INFO]: Nightww[/172.24.158.109:9438] logged in with entity id 402 at (2898.54748884261, 110.9375, 2315.6313266514057)
-[01:52:39] [Server thread/INFO]: Nightww joined the game
-[01:52:46] [Server thread/INFO]: [Not Secure] <Nightww> WAIT
-[01:52:47] [Server thread/INFO]: [Not Secure] <Nightww> ay
-[01:52:48] [Server thread/INFO]: [Not Secure] <Nightww> a
-[01:52:49] [Server thread/INFO]: [Not Secure] <Nightww> me asute
-[01:53:52] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> WHAT
-[01:54:00] [Server thread/INFO]: [Not Secure] <Nightww> chicken jockey
-[01:54:11] [Server thread/INFO]: [Not Secure] <Nightww> A MIMIR
-[01:54:13] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> LE PEGO
-[01:54:14] [Server thread/INFO]: [Not Secure] <Nightww> LLEGATE MANO
-[01:54:16] [Server thread/INFO]: [Not Secure] <Nightww> NO LE PEGUES
-[01:54:22] [Server thread/INFO]: [Not Secure] <Nightww> LE VOY A ENVIAR FOTO A MI PANA
-[01:54:46] [Server thread/INFO]: [Not Secure] <Nightww> lo sabia bro
-[01:54:50] [Server thread/INFO]: [Not Secure] <Nightww> te gustan los hombre
-[01:55:40] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> ven
-[01:55:42] [Server thread/INFO]: [Not Secure] <Nightww> yava
-[01:56:49] [Server thread/INFO]: [Not Secure] <Nightww> ya
-[01:57:13] [Server thread/INFO]: [Not Secure] <Nightww> OSTIA
-[01:57:24] [Server thread/INFO]: [Not Secure] <Nightww> thx broder
-[01:57:27] [Server thread/INFO]: [Not Secure] <Nightww> ostia
-[01:57:49] [Server thread/INFO]: [Not Secure] <Nightww> BRO
-[01:57:56] [Server thread/INFO]: [Not Secure] <Nightww> SALI POR DONDE ESTAN LAS TRAMPILLAS
-[01:57:58] [Server thread/INFO]: [Not Secure] <Nightww> TU ERE LOCO
-[01:58:12] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> listo
-[01:58:45] [Server thread/INFO]: [Not Secure] <Nightww> bro voy a intentar terminar de construir
-[01:59:32] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> a la mina pls
+[02:29:14] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:29:17] [ServerMain/INFO]: Loaded 7 recipes
+[02:29:17] [ServerMain/INFO]: Loaded 1271 advancements
+[02:29:18] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[02:29:18] [Server thread/INFO]: Loading properties
+[02:29:18] [Server thread/INFO]: Default game type: SURVIVAL
+[02:29:18] [Server thread/INFO]: Generating keypair
+[02:29:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:29:18] [Server thread/INFO]: Using epoll channel type
+[02:29:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:29:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:29:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:29:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:29:18] [Server thread/INFO]: Preparing level "world"
+[02:29:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:29:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:32] [Server thread/INFO]: Time elapsed: 8404 ms
+[02:29:32] [Server thread/INFO]: Done (14.339s)! For help, type "help"
+[02:30:00] [Server thread/INFO]: Nightww[/172.24.158.109:11515] logged in with entity id 142 at (2906.514429010439, 116.0, 2280.8190358655315)
+[02:30:00] [Server thread/INFO]: Nightww joined the game
+[02:30:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
+[02:30:10] [Server thread/INFO]: zahidmizrahi10[/172.24.26.112:32846] logged in with entity id 329 at (2892.31952920693, 119.0, 2267.897646942078)
+[02:30:10] [Server thread/INFO]: zahidmizrahi10 joined the game
+[02:30:16] [Server thread/INFO]: [Not Secure] <Nightww> bro
+[02:30:29] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> q?
+[02:30:40] [Server thread/INFO]: [Not Secure] <Nightww> acabo de ver un video de tiktok que sale que tu hermana compartio y es un refri lleno de cinamonroll amarillos
+[02:30:56] [Server thread/INFO]: [Not Secure] <Nightww> y dice que lo compartio diciendo <<zahid:>>
+[02:31:03] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> ese es pompompurin
+[02:31:07] [Server thread/INFO]: [Not Secure] <Nightww> A
+[02:31:14] [Server thread/INFO]: [Not Secure] <Nightww> bueno bro soy mas o menos pendjo
+[02:31:18] [Server thread/INFO]: [Not Secure] <Nightww> me voy a mimi
+[02:31:21] [Server thread/INFO]: [Not Secure] <Nightww> en un rato
+[02:31:24] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> mas
+[02:31:57] [Server thread/INFO]: [Not Secure] <Nightww> ya ni dispares
+[02:32:00] [Server thread/INFO]: [Not Secure] <Nightww> esa punteria
+[02:32:08] [Server thread/INFO]: [Not Secure] <Nightww> vamos pues
+[02:32:25] [Server thread/INFO]: [Not Secure] <Nightww> wait
+[02:33:14] [Server thread/INFO]: [Not Secure] <Nightww> donde estas
+[02:33:27] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> voy a hacer un pico
+[02:33:32] [Server thread/INFO]: [Not Secure] <Nightww> pero donde estas
+[02:33:44] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> yendo hacia la casa
+[02:33:51] [Server thread/INFO]: [Not Secure] <Nightww> ...
+[02:33:53] [Server thread/INFO]: [Not Secure] <Nightww> q triste
+[02:33:55] [Server thread/INFO]: [Not Secure] <Nightww> y no avisas
+[02:33:57] [Server thread/INFO]: [Not Secure] <Nightww> malo :(
+[02:34:20] [Server thread/INFO]: [Not Secure] <Nightww> un payaso va a venir hoy y te va a jalar las patitas :D
+[02:35:39] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> donde estas
+[02:35:43] [Server thread/INFO]: [Not Secure] <Nightww> ya vi tu tag
+[02:35:55] [Server thread/INFO]: [Not Secure] <Nightww> ven
+[02:35:56] [Server thread/INFO]: [Not Secure] <Nightww> aca
+[02:35:59] [Server thread/INFO]: [Not Secure] <Nightww> regresate
+[02:36:03] [Server thread/INFO]: [Not Secure] <Nightww> mas abajo
+[02:36:11] [Server thread/INFO]: [Not Secure] <Nightww> pasame las antorchas
+[02:36:20] [Server thread/INFO]: [Not Secure] <Nightww> todas
+[02:36:24] [Server thread/INFO]: [Not Secure] <Nightww> yo voy alumbrando
+[02:36:35] [Server thread/INFO]: [Not Secure] <Nightww> q
+[02:37:01] [Server thread/INFO]: [Not Secure] <Nightww> me voy a cepillar
+[02:37:03] [Server thread/INFO]: [Not Secure] <Nightww> es rapido
+[02:37:04] [Server thread/INFO]: [Not Secure] <Nightww> toma
+[02:37:22] [Server thread/INFO]: [Not Secure] <zahidmizrahi10> REDSTONE
