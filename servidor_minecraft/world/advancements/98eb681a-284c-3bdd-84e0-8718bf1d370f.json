@@ -2101,5 +2101,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-10 22:57:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
