@@ -32,3 +32,15 @@
 [00:18:28] [Server thread/INFO]: Nightww[/172.24.158.109:31746] logged in with entity id 141 at (2866.873171260069, 123.0, 2158.2883801095563)
 [00:18:28] [Server thread/INFO]: Nightww joined the game
 [00:18:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2345ms or 46 ticks behind
+[00:32:45] [Server thread/INFO]: Nightww lost connection: Timed out
+[00:32:45] [Server thread/INFO]: Nightww left the game
+[00:32:45] [Server thread/WARN]: handleDisconnection() called twice
+[00:33:22] [Server thread/INFO]: Nightww[/172.24.158.109:32572] logged in with entity id 2852 at (2876.416717651512, 120.0, 2258.8606470348245)
+[00:33:22] [Server thread/INFO]: Nightww joined the game
+[00:34:50] [Server thread/INFO]: Nightww lost connection: Disconnected
+[00:34:50] [Server thread/INFO]: Nightww left the game
+[00:34:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:34:55] [Server thread/INFO]: <--[HERE]
+[00:35:04] [Server thread/INFO]: Nightww[/172.24.158.109:32665] logged in with entity id 3160 at (2899.1845139008033, 119.0, 2240.2887607297816)
+[00:35:04] [Server thread/INFO]: Nightww joined the game
+[00:35:40] [Server thread/WARN]: Nightww moved too quickly! 8.235622311809038,1.0013359791121417,5.809679010902073
