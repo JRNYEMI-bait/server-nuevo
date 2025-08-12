@@ -312,6 +312,7 @@
       "cooked_beef": "2025-08-09 00:55:58 +0000",
       "beef": "2025-08-05 17:26:54 +0000",
       "porkchop": "2025-08-05 16:43:33 +0000",
+      "apple": "2025-08-11 23:53:38 +0000",
       "mutton": "2025-08-09 01:10:16 +0000",
       "bread": "2025-08-07 15:57:24 +0000",
       "suspicious_stew": "2025-08-11 23:35:00 +0000",
@@ -2290,6 +2291,18 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-08-11 23:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-11 23:55:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-11 23:55:34 +0000"
     },
     "done": true
   },
