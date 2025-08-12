@@ -1,51 +1,38 @@
-[14:46:41] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:46:43] [ServerMain/INFO]: Loaded 7 recipes
-[14:46:43] [ServerMain/INFO]: Loaded 1271 advancements
-[14:46:44] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[14:46:44] [Server thread/INFO]: Loading properties
-[14:46:44] [Server thread/INFO]: Default game type: SURVIVAL
-[14:46:44] [Server thread/INFO]: Generating keypair
-[14:46:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:46:44] [Server thread/INFO]: Using epoll channel type
-[14:46:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:46:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:46:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:46:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:46:44] [Server thread/INFO]: Preparing level "world"
-[14:46:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:46:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:46:59] [Server thread/INFO]: Time elapsed: 8579 ms
-[14:46:59] [Server thread/INFO]: Done (14.406s)! For help, type "help"
-[14:47:40] [Server thread/INFO]: Nightww[/172.24.158.109:25695] logged in with entity id 142 at (2876.972030143707, 120.0, 2259.4207101148395)
-[14:47:40] [Server thread/INFO]: Nightww joined the game
-[14:47:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2563ms or 51 ticks behind
-[14:51:31] [Server thread/INFO]: Nightww lost connection: Disconnected
-[14:51:31] [Server thread/INFO]: Nightww left the game
-[14:53:34] [Server thread/INFO]: zahidmizrahi[/172.24.158.109:26055] logged in with entity id 856 at (7.5, 63.0, -5.5)
-[14:53:34] [Server thread/INFO]: zahidmizrahi joined the game
-[14:54:18] [Server thread/INFO]: zahidmizrahi lost connection: Disconnected
-[14:54:18] [Server thread/INFO]: zahidmizrahi left the game
-[14:57:21] [Server thread/INFO]: zahidmizrahi10[/172.24.158.109:26280] logged in with entity id 1056 at (2758.663252462538, 72.0, 2270.4301810485877)
-[14:57:21] [Server thread/INFO]: zahidmizrahi10 joined the game
-[14:58:23] [Server thread/INFO]: zahidmizrahi10 was slain by Drowned
-[14:59:15] [Server thread/INFO]: zahidmizrahi10 lost connection: Disconnected
-[14:59:15] [Server thread/INFO]: zahidmizrahi10 left the game
-[15:01:42] [Server thread/INFO]: Nightww[/172.24.158.109:26513] logged in with entity id 1814 at (2877.2815872118017, 120.0, 2258.9372348099987)
-[15:01:42] [Server thread/INFO]: Nightww joined the game
-[15:10:50] [Server thread/INFO]: Villager byb['Villager'/1884, l='ServerLevel[world]', x=2801.27, y=102.00, z=2209.59] died, message: 'Villager was shot by Pillager'
+[17:50:36] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:50:39] [ServerMain/INFO]: Loaded 7 recipes
+[17:50:39] [ServerMain/INFO]: Loaded 1271 advancements
+[17:50:39] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[17:50:39] [Server thread/INFO]: Loading properties
+[17:50:39] [Server thread/INFO]: Default game type: SURVIVAL
+[17:50:39] [Server thread/INFO]: Generating keypair
+[17:50:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:50:40] [Server thread/INFO]: Using epoll channel type
+[17:50:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:50:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:50:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:50:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:50:40] [Server thread/INFO]: Preparing level "world"
+[17:50:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:50:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:50:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:50:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:50:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:50:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:50:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:50:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:50:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:50:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:50:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:50:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:50:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:50:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:50:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:50:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:50:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:50:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:50:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:50:55] [Server thread/INFO]: Time elapsed: 9110 ms
+[17:50:55] [Server thread/INFO]: Done (14.779s)! For help, type "help"
+[17:51:02] [Server thread/INFO]: Nightww[/172.24.158.109:38468] logged in with entity id 142 at (2901.667383142242, 119.0, 2249.096303386272)
+[17:51:02] [Server thread/INFO]: Nightww joined the game
+[17:51:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2441ms or 48 ticks behind
